@@ -1,6 +1,7 @@
 #inclued<iostream>
 using namespace std;
 
+void s();
 int main(){
-    cout<<"Hello World";
+    s();
 }
